@@ -3,7 +3,6 @@
 <h3 align="center">Designer | NoobDev</h3>
 
 - Meus projetos que pode ser avaliados [https://www.behance.net/washssousa](https://www.behance.net/washssousa)
-
 - Meu email **washssousa@gmail.com**
 
 <h3 align="left">Minhas Conexões:</h3>
