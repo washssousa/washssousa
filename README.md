@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/AaFluim.jpeg)](https://www.behance.net/washssousa)
+[![MasterHead](https://i.imgur.com/QMiyBnz.jpeg)](https://www.behance.net/washssousa)
 <h1 align="center">Hi 👋, I'm washssousa</h1>
 <h3 align="center">Designer | Noob Dev</h3>
 
