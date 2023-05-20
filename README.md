@@ -1,5 +1,5 @@
 [![MasterHead](https://i.imgur.com/QMiyBnz.jpeg)](https://www.behance.net/washssousa)
-<h1 align="center">Eu sou Washington Sousa</h1>
+<h1 align="center">Washington Sousa</h1>
 <h3 align="center">Designer | NoobDev</h3>
 
 - Meus projetos que pode ser avaliados [https://www.behance.net/washssousa](https://www.behance.net/washssousa)
