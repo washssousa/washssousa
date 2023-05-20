@@ -1,14 +1,10 @@
 [![MasterHead](https://i.imgur.com/QMiyBnz.jpeg)](https://www.behance.net/washssousa)
 <h1 align="center">Eu sou Washington Sousa</h1>
-<h3 align="center">Designer | Noob Dev</h3>
+<h3 align="center">Designer | NoobDev</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=washssousa&label=Profile%20views&color=0e75b6&style=flat" alt="washssousa" /> </p>
+- Meus projetos que pode ser avaliados [https://www.behance.net/washssousa](https://www.behance.net/washssousa)
 
-<p align="left"> <a href="https://twitter.com/wash_zz" target="blank"><img src="https://img.shields.io/twitter/follow/wash_zz?logo=twitter&style=for-the-badge" alt="wash_zz" /></a> </p>
-
-- 👨‍💻 Meus projetos que pode ser avaliados [https://www.behance.net/washssousa](https://www.behance.net/washssousa)
-
-- 📫 meu email **washssousa@gmail.com**
+- Meu email **washssousa@gmail.com**
 
 <h3 align="left">Minhas Conexões:</h3>
 <p align="left">
