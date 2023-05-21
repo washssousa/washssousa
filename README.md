@@ -2,7 +2,7 @@
 
 <h3 align="center">Youtuber | NoobDev | Designer</h3>
 Eu sou Washington Sousa converso que eu sou apaixonado por tecnologia e um entusiasta do desenvolvimento de software. Cheguei a descobrir que a minha paixão pela área durante sua graduação em Design com ênfase em Interface Digital era simplesmente combinar a minha criatividade e habilidades técnicas, onde eu posso ver o campo perfeito para aplicar certo conhecimento e criar soluções inovadoras por meio do desenvolvimento de software.
-<div style="display: inline_block"><br>
+
 <h3 align="left">Minhas Conexões:</h3>
 <p align="left">
 <a href="https://twitter.com/wash_zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wash_zz" height="30" width="40" /></a>
