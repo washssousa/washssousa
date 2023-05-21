@@ -1,6 +1,7 @@
 [![MasterHead](https://i.imgur.com/QMiyBnz.jpeg)](https://www.behance.net/washssousa)
 <h1 align="center">Washington Sousa</h1>
 <h3 align="center">Youtuber | NoobDev | Designer</h3>
+Eu sou Washington Sousa converso que eu sou apaixonado por tecnologia e um entusiasta do desenvolvimento de software. Cheguei a descobrir que a minha paixão pela área durante sua graduação em Design com ênfase em Interface Digital era simplesmente combinar a minha criatividade e habilidades técnicas, onde eu posso ver o campo perfeito para aplicar certo conhecimento e criar soluções inovadoras por meio do desenvolvimento de software.
 
 <h3 align="left">Minhas Conexões:</h3>
 <p align="left">
