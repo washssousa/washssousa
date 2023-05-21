@@ -1,6 +1,6 @@
 [![MasterHead](https://i.imgur.com/QMiyBnz.jpeg)](https://www.behance.net/washssousa)
 <h1 align="center">Washington Sousa</h1>
-<h3 align="center">Designer | NoobDev</h3>
+<h3 align="center">Youtuber | NoobDev| Designer</h3>
 
 <h3 align="left">Minhas Conexões:</h3>
 <p align="left">
